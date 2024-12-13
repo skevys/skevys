@@ -1,4 +1,10 @@
 ## Hi there 👋
+### 🔭 I’m currently working on ...
+* Creating my digital portfolio.
+* Filling up my GitHub with my past coding projects!
+#### 🌱 I’m currently learning ...
+* How to use Power BI
+* How to use GitHub!
 
 <!--
 **skevys/skevys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
